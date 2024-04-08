@@ -1,6 +1,19 @@
 {
   "name": "Book Of Cat Fish",
   "symbol": "BOFC",
-  "image": "https://bafybeihv2gvvb2efyeh6o4llzfq635mr5cinvcqn6cprvrdwh5bgojxc6e.ipfs.nftstorage.link",
-  "description": "TWITTER: https://twitter.com/bullken_",
+  "image": "https://github.com/Denyo666/Main/blob/main/catfish%20(1).jpg?raw=true",
+  "description": "Cat Fish to the Moon",
+  "extensions": {
+    "twitter": "https://www.twitter.com/bullken_",
+    "telegram": ""
+  },
+  "tags": [
+    "Meme",
+    "Cats",
+    "Memes"
+  ],
+  "creator": {
+    "name": "",
+    "site": ""
+  }
 }
